@@ -1,42 +1,53 @@
 ---
-title: 'BioHackEU23 report: Template for the very long title'
-title_short: 'BioHackEU23 #26: unknown chemical substances'
+title: 'BioHackEU26: Vocabulary Enrichment & Resolution of Diversity Annotations via Neural Technology (VERDANT)'
+title_short: 'BioHackEU26 #11: VERDANT'
 tags:
-  - cheminformatics
-  - PubChem
-  - unknown chemical substances
+  - microbiome
+  - ontology
+  - knowledge graph
+  - embeddings
+  - environment
 authors:
-  - name: First Author
+  - name: Varsha Kale
     affiliation: 1
-    role: Writing – original draft
-  - name: Last Author
+    orcid: 0000-0002-3503-6383
+    role: Conceptualisation and codebase, Writing first draft
+  - name: Jovana Dobreva
     orcid: 0000-0000-0000-0000
     affiliation: 2
-    role: Conceptualization, Writing – review & editing
+    role: Conceptualisation and codebase, Writing - review & editing
+  - name: Floriann Deepika Louis
+    orcid: 0000-0000-0000-0000
+    affiliation: 3
+    role: Code contributions, validation, Writing - review & editing
+  - name: Luis Miguel Rodriguez Rojas
+    orcid: 0000-0000-0000-0000
+    affiliation: 1
+    role: Conceptualisation and review
 affiliations:
-  - name: First Affiliation
+  - name: Center for Microbial Communities, Department of Chemistry and Bioscience, Aalborg   University, Aalborg, Denmark
     index: 1
-  - name: ELIXIR Europe
-    ror: 044rwnt51
+  - name: Department of Computer Science, Aalborg University, Aalborg Denmark
     index: 2
-date: 8 November 2023
+  - name: Alfred Wegener Institute, Helmholtz Center for Polar- and Marine Research, Bremerhaven, Germany
+    index: 3
+date: 13 November 2026
 cito-bibliography: paper.bib
-event: BH23EU
-biohackathon_name: "BioHackathon Europe 2023"
+event: BH26EU
+biohackathon_name: "BioHackathon Europe 2026"
 biohackathon_url:   "https://biohackathon-europe.org/"
-biohackathon_location: "Barcelona, Spain, 2023"
-group: Project 26
+biohackathon_location: "Barcelona, Spain, 2026"
+group: Project 11
 # URL to project git repo --- should contain the actual paper.md:
-git_url: https://github.com/biohackrxiv/publication-template
+git_url: https://github.com/Vkale1/biohackrxiv-report-2026
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
-authors_short: First Author \emph{et al.}
+authors_short: Kale, V, Dobreva J \emph{et al.}
 ---
-
 
 # Introduction
 
-As part of the BioHackathon Europe 2023, we here report...
+As part of the BioHackathon Europe 2026, we here report...
 
 ## Meeting information
 
